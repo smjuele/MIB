@@ -2,8 +2,13 @@ body{
 	margin: 0;
 }
 
-.container{
-	background-color: #EDC85A;
+.card{
+	background: linear-gradient(to top,  #00FA9A 20%, #30CFD0 80%);
+	box-shadow: 8px 10px #008B8B;
+	color: #000;
+	text-shadow: 1px 2px #fff;
+	font-family: 'Gochi Hand', cursive;
+	font-size: 20px;
 }
 
 .main{
@@ -18,7 +23,7 @@ body{
 	text-shadow: 2px 2px 0px #7A7A7A;
 	font-size: 20px;
 	font-color: #180C0F;
-	overflow: scroll;
+	
 }
 
 .bottles{
@@ -26,6 +31,7 @@ body{
 	background-color: #fff;
 	width: 100%;
 	height: 250px;
+	overflow: scroll;
 }
 
 .bottles div:hover{

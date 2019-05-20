@@ -9,13 +9,12 @@
         <!-- Fonts -->
         <!--<link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Akronim" rel="stylesheet">-->
-       <link href="https://fonts.googleapis.com/css?family=Freckle+Face|Gloria+Hallelujah" rel="stylesheet">
+       <link href="https://fonts.googleapis.com/css?family=Freckle+Face|Gloria+Hallelujah|Carter+One" rel="stylesheet">
 
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #48D1CC;
-                color: #fff;
+                background-color: #008B8B;
                 font-weight: 200;
                 height: 100vh;
                 margin: 0;
@@ -37,8 +36,8 @@
 
             .top-right {
                 position: absolute;
-                right: 20px;
-                top: 30px;
+                right: 100px;
+                top: 20px;
             }
 
             .content {
@@ -52,20 +51,22 @@
             }
 
             .links > a {
-                color: #636b6f;
-                padding: 0 30px;
-                font-size: 13px;
+                font-family: 'Carter One', cursive;
+                padding: 5px 40px;
+                font-size: 20px;
                 font-weight: 600;
-                letter-spacing: .1rem;
+                letter-spacing: .2rem;
                 top: 20px;
+                color: #4682B4;
+                text-shadow: 1px 2px #FFD700;
                 text-decoration: none;
                 text-transform: uppercase;
             }
 
             .outer{
                 background-color:  #fff;
-                box-shadow: 5px 5px #4d4d4d;
-                border-radius: 70px;
+                box-shadow: 7px 9px #2F4F4F;
+                border-radius: 500px;
                 width: 60%;
                 height: 60%;
                 float: center;
