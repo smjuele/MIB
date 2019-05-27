@@ -34,3 +34,13 @@ Route::get('/home', 'HomeController@index')->name('home');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/about', function () {
+    return view('about');
+});
+Route::get('/faq', function () {
+    return view('faq');
+});
+Route::get('/developers', function () {
+    return view('developers');
+});

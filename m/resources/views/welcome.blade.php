@@ -110,7 +110,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="/about">About Us</a>
+                    <a href="/about">ABOUT US</a>
                     <a href="/faq">FAQ</a>
                     <a href="/developers">Developers</a>
                 </div>
