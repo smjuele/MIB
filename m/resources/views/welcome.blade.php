@@ -50,15 +50,15 @@
                 text-align: center;
             }
 
-            .links > a {
+            .links a {
                 font-family: 'Carter One', cursive;
                 padding: 5px 40px;
                 font-size: 20px;
                 font-weight: 600;
                 letter-spacing: .2rem;
                 top: 20px;
-                color: #4682B4;
-                text-shadow: 1px 2px #FFD700;
+                color: #ffa64d;
+                text-shadow: 1px 2px #001a33;
                 text-decoration: none;
                 text-transform: uppercase;
             }
